@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message">Digite suas credenciais para continuar.</string>
+    <string name="Login">Login:</string>
+    <string name="Senha">Senha:</string>
+    <string name="saveLogin">Salvar informação de login</string>
+    <string name="enter">Entrar</string>
+    <string name="configs">Configurações</string>
+    <string name="about">Sobre</string>
+</resources>
